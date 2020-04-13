@@ -1,0 +1,13 @@
+E:\VisualProjects\KelimeOgren\Kelime Öğren\bin\Debug\Kelimeler.mdf
+E:\VisualProjects\KelimeOgren\Kelime Öğren\bin\Debug\Kelimeler_log.ldf
+E:\VisualProjects\KelimeOgren\Kelime Öğren\bin\Debug\Kelime Öğren.exe.config
+E:\VisualProjects\KelimeOgren\Kelime Öğren\bin\Debug\Kelime Öğren.exe
+E:\VisualProjects\KelimeOgren\Kelime Öğren\bin\Debug\Kelime Öğren.pdb
+E:\VisualProjects\KelimeOgren\Kelime Öğren\obj\Debug\Kelime Öğren.csprojAssemblyReference.cache
+E:\VisualProjects\KelimeOgren\Kelime Öğren\obj\Debug\Kelime_Öğren.MainForm.resources
+E:\VisualProjects\KelimeOgren\Kelime Öğren\obj\Debug\Kelime_Öğren.KelimeCrud.resources
+E:\VisualProjects\KelimeOgren\Kelime Öğren\obj\Debug\Kelime_Öğren.Properties.Resources.resources
+E:\VisualProjects\KelimeOgren\Kelime Öğren\obj\Debug\Kelime Öğren.csproj.GenerateResource.cache
+E:\VisualProjects\KelimeOgren\Kelime Öğren\obj\Debug\Kelime Öğren.csproj.CoreCompileInputs.cache
+E:\VisualProjects\KelimeOgren\Kelime Öğren\obj\Debug\Kelime Öğren.exe
+E:\VisualProjects\KelimeOgren\Kelime Öğren\obj\Debug\Kelime Öğren.pdb
